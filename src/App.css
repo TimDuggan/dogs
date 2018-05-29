@@ -50,7 +50,7 @@ body {
 }
 body:after {
   content: "";
-  background: url(/images/IMG_0483.jpg);
+  background-image: url(images/IMG_0483.jpg);
   background-repeat: repeat-y;
   opacity: 0.15;
   top: 0;
@@ -62,7 +62,7 @@ body:after {
 }
 
 button {
-  background-image: url(/images/bone.png);
+  background-image: url(images/Bone.png);
   background-position: .2em center;
   background-size: 2em;
   text-align: left;
@@ -78,10 +78,10 @@ button {
   border-radius: .3em;
 }
 .button-back {
-  background-image: url(/images/Back.png);
+  background-image: url(images/Back.png);
 }
 .button-refresh {
-  background-image: url(/images/Refresh.png);
+  background-image: url(images/Refresh.png);
 }
 .button-nav {
   float: left;
